@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "title": "MAZZO DI ROSE ROSSE",
+      "description": "Splendido mazzo di rose rosse: per esprimere alla persona che ami quello che provi in maniera unica e romantica.",
+      "category": "rose",
+      "price": 800,
+      "picture": "https://fioreriaalcarmine.it/wp-content/uploads/2019/02/mazzo-rose-rosse.jpg",
+      "id": 6
+    },
+    {
+      "title": "ЖЕНСКАЯ СУМКА LOUIS VUITTON ",
+      "description": "Сумка клатч Twist из рельефной кожи Epi украшена фирменным замком LV Twist из металла золотистого цвета.",
+      "category": "bag",
+      "price": 1000,
+      "picture": "https://i.siteapi.org/RroQCeRoVCwjPa9udN9XhAhQb_0=/0x58:811x900/5a8892317067491.s2.siteapi.org/img/plbkdotcuk0o04o8cgg0ksck84o884",
+      "id": 7
+    },
+    {
+      "title": "BAIRA",
+      "description": "Одежда с этнической принадлежностью кыргызских бренда",
+      "category": "baira",
+      "price": 900,
+      "picture": "https://www.baira.kg/files/public/upload/products/thumbnail/1770302171293965.jpg",
+      "id": 8
+    },
+    {
+      "title": "Will AR Smart Glasses",
+      "description": "The Futurist’s Trilemma – Navigating the Uncharted Waters of Tomorrow",
+      "category": "glasses",
+      "price": "1000",
+      "picture": "https://futuristspeaker.com/wp-content/uploads/2022/08/futurist-thomas-frey-will-ar-smart-glasses-replace-smartphones-and-become-our-personal-buddy-bots.jpg",
+      "id": 11
+    },
+    {
+      "title": "META’S SMART GLASSES",
+      "description": "new Ray-Ban Meta Smart Glasses",
+      "category": " glasses",
+      "price": 1000,
+      "picture": "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Imageklii-1695893915173.jpg?w=1152&fm=auto&ar=2:1&mode=crop&crop=faces",
+      "id": 12
+    },
+    {
+      "title": "SMART GLASSES",
+      "description": "The Ray-Ban Meta Smart Glasses  of style and technology.  Read more at: https://yourstory.com/2023/09/ray-ban-meta-smart-glasses-overview",
+      "category": " glasses",
+      "price": 1000,
+      "picture": "https://techcentral.co.za/wp-content/uploads/2021/09/ray-ban-facebook-2156-1120.jpg",
+      "id": 13
+    }
+  ]
+}
